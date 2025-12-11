@@ -16,7 +16,3 @@ function fish_greeting
     echo $greet
 end
 
-function dotfile
-    /usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME $argv
-end
-
