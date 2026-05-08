@@ -1,4 +1,4 @@
-theme = dark:Adwaita Dark,light:Adwaita
+theme = light:Adwaita,dark:Adwaita Dark
 font-family = Monospace
 font-size = 11
 font-feature = liga, calt
