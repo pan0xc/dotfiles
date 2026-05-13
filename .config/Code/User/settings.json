@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "'Droid Sans Mono', monospace, Maple Mono CN, Symbols Nerd Font Mono",
+  "editor.fontFamily": "monospace, Maple Mono CN, Symbols Nerd Font Mono",
   "editor.fontSize": 16,
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 16,
