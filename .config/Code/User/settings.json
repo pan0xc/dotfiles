@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "'Droid Sans Mono', monospace, Maple Mono CN, Symbols Nerd Font Mono",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 16,
+  "go.toolsManagement.autoUpdate": true,
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "dev.containers.dockerPath": "podman",
+  "containers.containerClient": "com.microsoft.visualstudio.containers.podman",
+  "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.podmancompose",
+  "workbench.iconTheme": "vscode-icons",
+  "window.autoDetectColorScheme": true,
+  "terminal.integrated.cursorBlinking": true,
+  "zig.zls.enabled": "on",
+}
