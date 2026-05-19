@@ -1,7 +1,7 @@
 # C/C++
-set -x LIBC_HOME $XDG_DATA_HOME/libc
+set -x C_HOME $XDG_DATA_HOME/c
 
-for d in $LIBC_HOME/*
+for d in $C_HOME/*
     if test -d $d/include
         set -xa C_INCLUDE_PATH $d/include
         set -xa CPLUS_INCLUDE_PATH $d/include
