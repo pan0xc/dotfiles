@@ -1,4 +1,4 @@
-# C/C++
+# C/C++	This configuration will be abandoned in the future due to the continued use of Nix.
 set -x C_HOME $XDG_DATA_HOME/c
 
 for d in $C_HOME/*
