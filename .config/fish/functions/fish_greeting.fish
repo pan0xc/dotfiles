@@ -1,5 +1,5 @@
 function fish_greeting
-    set user panc
+    set user panic
 
     set greetings \
         "  [EN] Hello, $user!" \
